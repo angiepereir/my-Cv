@@ -1,0 +1,24 @@
+.experiencia.card {
+    width: 80%; /* ancho del contenedor */
+    max-width: 800px; /* ancho máximo */
+    margin: 50px auto; /* centrar vertical y horizontalmente */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .name {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  .where {
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 0.9em;
+  }
+  

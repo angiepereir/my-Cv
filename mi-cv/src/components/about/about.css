@@ -1,0 +1,47 @@
+.about {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.about h2 {
+  color: #333;
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.about p {
+  color: #666;
+  font-size: 18px;
+  line-height: 1.5;
+  margin:  20px;
+}
+
+.about p.info1 {
+  color: #f44336;
+  font-weight: 700;
+}
+
+.about p.info2 {
+  font-style: italic;
+}
+
+.about a {
+  color: #f44336;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.about a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+  
+  

@@ -1,0 +1,51 @@
+.language {
+    width: 80%; /* ancho del contenedor */
+    max-width: 800px; /* ancho máximo */
+    margin: 50px auto; /* centrar vertical y horizontalmente */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .habilities {
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+   .p {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+   
+  }
+  
+  
+  .p2, .p3, .p4 {
+    font-size: 1.1em;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    text-indent: -20px;
+  }
+  
+  .p2::before {
+    content: "- ";
+    color: #F08080;
+  }
+  
+  .p3::before {
+    content: "- ";
+    color: #00BFFF;
+  }
+  
+  .p4::before {
+    content: "- ";
+    color: #FFA07A;
+  }
+  
